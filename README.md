@@ -1,4 +1,4 @@
-# NewsFlix1
+# NewsFlix
 
 ![image](https://github.com/Jinesh3578/NewsFlix1/assets/114583066/5dd928ff-3685-46e5-a5ea-2ac788c6346e)
 
